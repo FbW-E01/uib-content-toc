@@ -1,0 +1,26 @@
+/* Style */
+#Bold-Pink {
+    color: pink;
+    font-weight: bold;
+}
+
+.CAPS-Grey {
+    color: grey;
+    text-transform: uppercase;
+}
+.Capitalize-Blue {
+    color: indigo;
+    text-transform: capitalize;
+}
+.heading-bg-color {
+    background-color: teal;
+}
+.lowercase-heading-yellow {
+    color: yellow;
+    text-transform: lowercase;
+}
+.roman-numbers-list {
+    list-style: lower-roman;
+}
+
+
